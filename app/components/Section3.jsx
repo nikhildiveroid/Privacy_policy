@@ -20,7 +20,7 @@ export default function Section3() {
         <p>
           Usage Data is collected automatically when using the Service.
           <br /> <br />
-          Usage Data may include information such as Your Device's Id, the time
+          Usage Data may include information such as Your Device&apos;s Id, the time
           spent on those screens of application, unique device identifiers and
           other diagnostic data.
           <br /> <br />

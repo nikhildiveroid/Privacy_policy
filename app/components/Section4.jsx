@@ -27,9 +27,9 @@ export default function Section4() {
       <div className="flex flex-col gap-2">
         <p>
           In order to provide a better user experience, we have integrated data
-          statistics tools in the App, they won't collect users’ health data or
+          statistics tools in the App, they won&apos;t collect users health data or
           privacy data and are only used for CRASH targeting and AB-testing for
-          new features and design， The details are as follows:
+          new features and design, The details are as follows:
         </p>
 
         <h1 className="underline underline-offset-4">Device information:</h1>

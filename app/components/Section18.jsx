@@ -9,7 +9,7 @@ export default function Section18() {
       <p>
         We do not sell personal information. However, the Service Providers we
         partner with (for example, our advertising partners) may use technology
-        on the Service that "sells" personal information as defined by the CCPA
+        on the Service that &quot;sells&quot; personal information as defined by the CCPA
         law. <br />
         <br />
         If you wish to opt out of the use of your personal information for
