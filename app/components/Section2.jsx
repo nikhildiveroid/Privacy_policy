@@ -37,7 +37,7 @@ export default function Section2() {
       </div>
       <div className="flex flex-col gap-2">
         <h1 className="font-extrabold text-[18px]">Definitions</h1>
-        <h2>For the purposes of this Privacy Policy:</h2>
+        <h2 className="font-extrabold	text-[15px] underline underline-offset-4">For the purposes of this Privacy Policy:</h2>
         {data.map((item, index)=>(
               <ul key={index} className="flex flex-col list-disc list-inside pl-4">
               <li>{item}</li>

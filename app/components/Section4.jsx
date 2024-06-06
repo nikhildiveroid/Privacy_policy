@@ -32,13 +32,13 @@ export default function Section4() {
           new features and design， The details are as follows:
         </p>
 
-        <h1>Device information</h1>
+        <h1 className="underline underline-offset-4">Device information:</h1>
         <ul className="flex flex-col gap-2 pl-4 list-disc list-inside">
             <li>OEM Name</li>
             <li>Model</li>
 
         </ul>
-        <h1>Device system information</h1>
+        <h1 className="underline underline-offset-4">Device system information:</h1>
         <ul className="flex flex-col gap-2 pl-4 list-disc list-inside">
             {data.map((item, index)=>(
                     <li key={index}>{item}</li>
@@ -48,7 +48,7 @@ export default function Section4() {
         
 
         </ul>
-        <h1>Location information</h1>
+        <h1 className="underline underline-offset-4">Location information:</h1>
         <ul className="flex flex-col gap-2 pl-4 list-inside list-disc">
             {locationInfo.map((item, index)=>(
                     <li key={index}>{item}</li>
@@ -58,7 +58,7 @@ export default function Section4() {
         
 
         </ul>
-        <h1>Application information</h1>
+        <h1 className="underline underline-offset-4">Application information:</h1>
         <ul className="flex flex-col gap-2 pl-4 list-inside list-disc">
             {applicationInfo.map((item, index)=>(
                     <li key={index}>{item}</li>

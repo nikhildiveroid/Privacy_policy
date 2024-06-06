@@ -4,7 +4,7 @@ export default function Section6() {
   return (
     <section>
       <div className="flex flex-col gap-4">
-        <h1 className="font-extrabold text-[15px] ">
+        <h1 className="font-extrabold text-[18px] ">
           Information from Third-Party Social Media Services
         </h1>
         <p>The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:</p>

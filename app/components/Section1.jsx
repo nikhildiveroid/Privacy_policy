@@ -13,7 +13,7 @@ export default function Section1() {
       <section>
         {data.map((item, index) => (
           <div key={index} className="flex flex-col gap-5">
-            <h1>{item.h1}</h1>
+            <h1 className="font-extrabold	">{item.h1}</h1>
             <h2>{item.h2}</h2>
             <h3>{item.h3}</h3>
           </div>

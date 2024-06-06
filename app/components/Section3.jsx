@@ -15,8 +15,8 @@ export default function Section3() {
         Collecting and Using Your Personal Data
       </h1>
       <div className="flex flex-col gap-2">
-        <h1 className="font-extrabold text-[18px]">Types of Data Collected</h1>
-        <h2 className="font-extrabold text-[15px]">Usage Data</h2>
+        <h1 className="font-extrabold text-[18px]  underline underline-offset-4">Types of Data Collected</h1>
+        <h2 className="font-extrabold text-[15px] underline underline-offset-4">Usage Data:</h2>
         <p>
           Usage Data is collected automatically when using the Service.
           <br /> <br />

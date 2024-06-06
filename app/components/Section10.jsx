@@ -23,14 +23,14 @@ export default function Section10() {
   return (
     <section>
       <div className=" flex flex-col gap-4">
-        <h1 className="font-extrabold text-[20px] ">
+        <h1 className="font-extrabold text-[20px]  ">
           Disclosure of Your Personal Data
         </h1>
         {data.map((item, index)=>(
             <React.Fragment key={index}>
 
 
-            <h1 className="font-extrabold">{item.h1}</h1>
+            <h1 className="font-extrabold underline underline-offset-4">{item.h1}</h1>
             <p>{item.p}</p> {index===2 &&
             (
                 <ul className="flex flex-col gap-1 list-disc list-inside pl-4">

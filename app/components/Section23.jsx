@@ -9,7 +9,7 @@ export default function Section23() {
       <h1 className="mt-4 text-lg">Support Email: support@diveroid.com</h1>
 
       <ul className="mt-3 text-[13px]">
-        <li>Arteson & Ocean Co. , Ltd.  </li>
+        <li>Artisan & Ocean Co. , Ltd.  </li>
         <li>Representative name:  Kim Jeong-il  </li>
         <li>Business registration number:  134 - 87 - 08849  (Check business information)  </li>
         <li> Mail order registration number:   2021 - Seocho, Seoul - 1397</li>
